@@ -1,0 +1,9 @@
+{
+    "name": "start/start_bootstrap",
+    "autoload": {
+        "psr-4": {
+            "Start\\StartBootstrap\\": "src/"
+        }
+    },
+    "require": {}
+}
